@@ -2,7 +2,7 @@
 title: Android单元测试
 date: 2022-03-27 14:09:06
 tags: Android单元测试
-categories: 测试
+categories: Android平台技术栈
 ---
 
 

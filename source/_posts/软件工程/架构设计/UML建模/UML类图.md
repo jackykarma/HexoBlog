@@ -2,6 +2,7 @@
 title: UML类图
 date: 2022-07-24 21:22:53
 tags: UML类图
+categories: 软件工程
 ---
 
 [plantUML类图](https://plantuml.com/zh/class-diagram)

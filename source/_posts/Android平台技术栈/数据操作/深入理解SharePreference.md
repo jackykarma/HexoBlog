@@ -2,7 +2,7 @@
 title: 深入理解 SharePreference 
 date: 2022-04-10 13:38:32
 tags: SharePreference
-categories: 数据操作
+categories: Android平台技术栈
 ---
 
 SharedPreferences(简称SP)是Android中很常用的数据存储方式，SP采用key-value（键值对）形式, 主要用于轻量级的数据存储。SharedPreferences 对象指向包含键值对的文件，并提供读写这些键值对的简单方法。

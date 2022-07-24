@@ -2,7 +2,7 @@
 title: UML时序图
 date: 2022-07-24 21:22:53
 tags: UML时序图
-categories: UML时序图
+categories: 软件工程
 ---
 
 [plantUML时序图](https://plantuml.com/zh/sequence-diagram)

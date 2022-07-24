@@ -1,8 +1,8 @@
 ---
 title: 基于阿里云搭建Hexo博客
 date: 2022-03-26 12:58:57
-tags: 工具
-categories: 工具
+tags: 杂文
+categories: 杂文
 ---
 
 参考资料：
